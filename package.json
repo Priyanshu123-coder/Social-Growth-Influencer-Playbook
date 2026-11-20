@@ -1,0 +1,28 @@
+{
+  "name": "movida-playbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Priyanshu123-coder/Social-Growth-Influencer-Playbook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Priyanshu123-coder/Social-Growth-Influencer-Playbook/issues"
+  },
+  "homepage": "https://github.com/Priyanshu123-coder/Social-Growth-Influencer-Playbook#readme",
+  "dependencies": {
+    "docx": "^9.16.0",
+    "exceljs": "^4.4.0",
+    "pdfkit": "^0.21.0",
+    "pptxgenjs": "^4.0.1",
+    "sharp": "^0.35.5"
+  }
+}
